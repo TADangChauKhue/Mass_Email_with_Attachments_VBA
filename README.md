@@ -49,7 +49,7 @@ The Excel file contains two sheets:
 <p>Bonjour [Nom]</p>
 <p>Ci-jointe votre quittance de loyer.</p>
 <p>Cordialement</p>
-<p>Lanlord name</p>
+<p> Nom du Propriétaire</p>
 
 
 ## Method: VBA Automation
